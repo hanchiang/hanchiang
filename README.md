@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 -->
 
 ## Current project
-- 🌱 I'm working on a simple [URL shortener](https://github.com/hanchiang/url-shortener-backend), automating it with [URL shortener infra](https://github.com/hanchiang/url-shortener-infra)
+- 🌱 I'm working on and [Market data notification](https://github.com/hanchiang/market-data-notification) and [Stock options scraper](https://github.com/hanchiang/market-data) 
 
 ## Past projects
-- [Instagram node API](https://github.com/hanchiang/instagram-node-api): An API to retrieve viral posts of an instagram profile
+- [URL shortener](https://github.com/hanchiang/url-shortener-backend), automated with [URL shortener infra](https://github.com/hanchiang/url-shortener-infra)
 - [Redis rust](https://github.com/hanchiang/codecrafters-redis-rust): A TCP server that supports basic redis commands, part of [CodeCrafters](https://codecrafters.io/) challenge
+- [Instagram node API](https://github.com/hanchiang/instagram-node-api): An API to retrieve viral posts of an instagram profile
 
 
 If you share similar interests, feel free to connect on [LinkedIn](https://www.linkedin.com/in/yap-han-chiang/)
