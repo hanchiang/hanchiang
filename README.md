@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ## Current project
-- 🌱 I'm working on [Market data notification](https://github.com/hanchiang/market-data-notification) and [Stock options scraper](https://github.com/hanchiang/market-data) 
+- 🌱 I'm working on [Market data notification](https://github.com/hanchiang/market-data-notification) and [Stock options data](https://github.com/hanchiang/market-data) 
 
 ## Past projects
 - [URL shortener](https://github.com/hanchiang/url-shortener-backend), automated with [URL shortener infra](https://github.com/hanchiang/url-shortener-infra)
