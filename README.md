@@ -1,7 +1,8 @@
 ## Hello there 👋
 
 I am a backend engineer based in Singapore, with experience building a product from scratch to launch.
-Interested in non-functional parts of the system such as reliability, security, performance
+I enjoy working on non-functional aspects of systems as much as the business logic.
+
 
 <!--
 **hanchiang/hanchiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
