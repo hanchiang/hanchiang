@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [URL shortener](https://github.com/hanchiang/url-shortener-backend), automated with [URL shortener infra](https://github.com/hanchiang/url-shortener-infra)
 - [Redis rust](https://github.com/hanchiang/codecrafters-redis-rust): A TCP server that supports basic redis commands, part of [CodeCrafters](https://codecrafters.io/) challenge
 - [Instagram node API](https://github.com/hanchiang/instagram-node-api): An API to retrieve viral posts of an instagram profile
+- [Ghost static site converter](https://github.com/hanchiang/ghost-convert-static-website) A shell script to generate a static version of a [ghost](https://ghost.org/) website
 
 
 If you share similar interests, feel free to connect on [LinkedIn](https://www.linkedin.com/in/yap-han-chiang/)
